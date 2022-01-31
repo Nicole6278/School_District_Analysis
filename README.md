@@ -8,6 +8,7 @@
   
 ***Results***
 - How is the district summary affected?
+    ![This is an image](https://github.com/Nicole6278/kickstarter-analysis/blob/main/Resources/Outcomes_based_on_Launch_Date.png)
    
 
 - How is the school summary affected?
